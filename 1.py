@@ -20,6 +20,7 @@ def generate_primes(limit):
 
 # Main function to demonstrate the functionality
 def main():
+    # heres a comment
     # User input for the upper limit
     upper_limit = int(input("Enter an upper limit to generate prime numbers: "))
     
