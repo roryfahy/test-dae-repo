@@ -1,4 +1,5 @@
 # Function to check if a number is prime
+# stuff
 def is_prime(num):
     """Check if a number is prime."""
     if num <= 1:
