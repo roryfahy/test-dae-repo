@@ -29,5 +29,6 @@ def main():
     print(f"Prime numbers up to {upper_limit} are: {prime_numbers}")
 
 # Calling the main function
+# test
 if __name__ == "__main__":
     main()
